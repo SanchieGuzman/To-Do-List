@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(135deg, #a7ffbc, #c1faff);
+  border: 2px solid black;
+}
+
+.to-do {
+  max-width: 40rem;
+  width: 100%;
+  background-color: white;
+  margin: 5rem auto 1rem;
+  padding: 2rem 2rem 3rem;
+  border-radius: 0.8rem;
+}
+
+.to-do h2 {
+  color: rgb(17, 75, 17);
+  display: flex;
+  align-items: center;
+  font-size: 2.5rem;
+  margin: 1rem auto 1rem;
+}
+
+.to-do h2 img {
+  width: 10%;
+  margin-left: 2rem;
+}
