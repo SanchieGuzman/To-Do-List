@@ -14,12 +14,12 @@
 }
 
 .to-do {
-  max-width: 40rem;
+  max-width: 45rem;
   width: 100%;
   background-color: white;
   margin: 5rem auto 1rem;
   padding: 2rem 2rem 3rem;
-  border-radius: 0.8rem;
+  border-radius: 0.5rem;
 }
 
 .to-do h2 {
@@ -99,7 +99,7 @@ ul li.checked::before {
 
 ul li span {
   position: absolute;
-  right: 0.2rem;
+  right: 0.6rem;
   top: 0.6rem;
   width: 2rem;
   height: 2rem;
